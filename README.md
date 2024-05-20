@@ -76,7 +76,7 @@ This documentation outlines the setup and configuration of a home lab environmen
 
 2. **Showcasing Elastic Defender in Action:**
    - Run the malicious payload and observe Elastic Defender's ability to detect and block it.
-     ![Rshell1](images/rshell 1.jpg)
+     ![Rshell1](images/rshell_1.jpg)
      ![Rshell2](images/rshell_2.jpg)
      ![Rshell3](images/rshell_3.jpg)
 
