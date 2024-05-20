@@ -20,7 +20,6 @@ This documentation outlines the setup and configuration of a home lab environmen
 
 1. **Creating a Free Elastic Account:**
    - Visit the [Elastic Cloud](https://cloud.elastic.co) and sign up for a free account.
-     ![Elastic Cloud Signup](images/elastic_cloud_signup.png)
 
 2. **Logging In to the Elastic Cloud Console:**
    - Use your credentials to log in to the Elastic Cloud console.
